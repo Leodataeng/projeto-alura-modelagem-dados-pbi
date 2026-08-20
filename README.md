@@ -21,8 +21,8 @@ Para que o dashboard tivesse uma boa performance e os dados fossem confiáveis, 
 ### 2. Modelagem de Dados
 * **Arquitetura:** Construção de um modelo relacional baseado em **Star Schema** (Esquema Estrela), otimizando a leitura dos dados.
 * **Tabelas:**
-  * **Fato:** `[Nome da sua Tabela Fato, ex: fVendas]` - Centralizando as métricas quantitativas e chaves estrangeiras.
-  * **Dimensões:** `[Nomes das Dimensões, ex: dClientes, dProdutos, dCalendario]` - Para garantir a correta filtragem e categorização.
+ * **Fato:** `Vendas` - Centralizando as métricas quantitativas e chaves estrangeiras.
+  * **Dimensões:** `Clientes, Produtos` - Para garantir a correta filtragem e categorização.
 * **Relacionamentos:** Relacionamentos 1:N (Um para Muitos) estabelecidos, garantindo a integridade referencial sem ambiguidades no modelo.
 
 ## 📈 Resultado Visual
