@@ -5,7 +5,7 @@
 ![Modelagem](https://img.shields.io/badge/Modelagem-Star_Schema-brightgreen?style=for-the-badge)
 
 ## 📌 Sobre o Projeto
-Este é um projeto prático guiado desenvolvido durante o curso **[Nome do Curso]** da **Alura**. 
+Este é um projeto prático guiado desenvolvido durante o curso **Power BI Desktop: construindo meu primeiro dashboard** da **Alura**. 
 
 Embora o artefato final seja um dashboard, o principal objetivo deste repositório é documentar e consolidar meus estudos na camada de infraestrutura do BI: **processo de ETL (Extração, Transformação e Carga)** e **Modelagem Dimensional de Dados**, habilidades essenciais para a Engenharia de Dados.
 
