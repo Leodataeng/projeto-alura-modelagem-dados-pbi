@@ -29,7 +29,7 @@ Para que o dashboard tivesse uma boa performance e os dados fossem confiáveis, 
 
 Abaixo está uma prévia da camada de visualização consumindo o modelo de dados otimizado:
 
-![Dashboard](nome_exato_da_sua_imagem.png)
+![Dashboard](PrintDashboard.png)
 
 ## 🚀 Como visualizar o projeto
 
