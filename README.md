@@ -14,7 +14,7 @@ Embora o artefato final seja um dashboard, o principal objetivo deste repositór
 Para que o dashboard tivesse uma boa performance e os dados fossem confiáveis, as seguintes etapas técnicas foram aplicadas:
 
 ### 1. Extração e Transformação (Power Query / Linguagem M)
-* **Origem dos dados:** [Ex: Arquivos CSV, Excel, Banco de Dados, API] contendo [X] milhares de linhas.
+* **Origem dos dados:** [CSV] contendo [19.484] mil linhas.
 * **Limpeza:** Tratamento de valores nulos, remoção de duplicatas e padronização de tipos de dados.
 * **Transformação:** Criação de colunas condicionais e mesclagem de consultas para enriquecimento da base original.
 
