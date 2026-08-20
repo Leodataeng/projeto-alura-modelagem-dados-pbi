@@ -33,7 +33,7 @@ Abaixo está uma prévia da camada de visualização consumindo o modelo de dado
 
 ## 🚀 Como visualizar o projeto
 
-1. Faça o download do arquivo `[nome_do_seu_arquivo].pbix` presente neste repositório.
+1. Faça o download do arquivo `DashboardPetshopbix` presente neste repositório.
 2. É necessário ter o [Power BI Desktop](https://powerbi.microsoft.com/desktop/) instalado na sua máquina.
 3. Abra o arquivo para navegar pelo modelo de dados (aba Modelo) e pelas transformações (Power Query).
 
