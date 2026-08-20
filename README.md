@@ -29,7 +29,7 @@ Para que o dashboard tivesse uma boa performance e os dados fossem confiáveis, 
 
 Abaixo está uma prévia da camada de visualização consumindo o modelo de dados otimizado:
 
-> 🖼️ **Adicione a sua imagem aqui:** *(Para adicionar, basta arrastar a imagem para dentro da caixa de texto do GitHub enquanto estiver editando este README. Apague este texto depois).*
+![Dashboard](nome_exato_da_sua_imagem.png)
 
 ## 🚀 Como visualizar o projeto
 
